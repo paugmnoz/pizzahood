@@ -35,8 +35,9 @@
         console.log(pizzaCSV);
         let usuario = 0;
 
-        pizzaCSV.forEach(u => {
-           u.pimenton 
+        pizzaCSV.forEach(partner => {
+           partner.forEach( )
+           
         });
        
     });
